@@ -10,9 +10,9 @@ public class PemilihanBilangan17 {
         if (angka % 2 == 0) 
         {
             System.out.println("Angka" + angka + "termasuk bilangan genap");
-        } 
+        }
         else
-        {
+        {      
             System.out.println("Angka" + angka + "termasuk bilangan ganjil");
         }
         scanner.close();
